@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=C:/Ingresa/tuRuta/Aqui/RAYO_GATO.ico --add-data "C:/Ingresa/tuRuta/Aqui/RAYO_GATO.ico;." THUNDER_CAT.py
